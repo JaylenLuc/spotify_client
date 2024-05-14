@@ -1,0 +1,11 @@
+.carousel {
+	width: 400px;
+}
+
+app-artist {
+	vertical-align: middle;
+}
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
